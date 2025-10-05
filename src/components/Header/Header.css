@@ -1,0 +1,30 @@
+#movie_list:hover #movie_list_dropdown {
+    display: flex;
+}
+
+#rap_list:hover #rap_list_dropdown {
+    display: flex;
+}
+
+#cultureflex_list:hover #cultureflex_list_dropdown {
+    display: flex;
+}
+
+.bg-2C2C2C {
+    background-color: #2C2C2C;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-in-out;
+}

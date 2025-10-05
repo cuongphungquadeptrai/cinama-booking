@@ -1,0 +1,564 @@
+{
+  "slides": [
+    {
+      "id": "1",
+      "linkslide": "https://i.ibb.co/GQVbBKs0/a1.jpg"
+    },
+    {
+      "id": "2",
+      "linkslide": "https://i.ibb.co/7Ntr0tsZ/a2.jpg"
+    },
+    {
+      "id": "3",
+      "linkslide": "https://i.ibb.co/bgY8fXmb/a3.png"
+    },
+    {
+      "id": "4",
+      "linkslide": "https://i.ibb.co/99m6QPLK/a4.jpg"
+    },
+    {
+      "id": "5",
+      "linkslide": "https://i.ibb.co/pvvMsYkM/a5.jpg"
+    },
+    {
+      "id": "6",
+      "linkslide": "https://i.ibb.co/qLHdz1gL/a6.png"
+    },
+    {
+      "id": "7",
+      "linkslide": "https://i.ibb.co/xb3f9b8/a7.jpg"
+    },
+    {
+      "id": "8",
+      "linkslide": "https://i.ibb.co/27jrM2t1/a8.jpg"
+    },
+    {
+      "id": "9",
+      "linkslide": "https://i.ibb.co/9kVSksxH/a9.jpg"
+    },
+    {
+      "id": "10",
+      "linkslide": "https://i.ibb.co/tpwZH1zg/a9.png"
+    },
+    {
+      "id": "11",
+      "linkslide": "https://i.ibb.co/4ZNRkY94/a10.png"
+    },
+    {
+      "id": "12",
+      "linkslide": "https://i.ibb.co/39m0bh8Q/a11.jpg"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "namemovie": "TỬ CHIẾN TRÊN KHÔNG",
+      "link_img_moive": "https://i.ibb.co/SLqt0Pc/movie-dc-01.jpg",
+      "type": "Hành Động, Hồi hộp",
+      "time": 118,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "2",
+      "namemovie": "AVATAR: DÒNG CHẢY CỦA NƯỚC",
+      "link_img_moive": "https://i.ibb.co/8njZp9xK/movie-dc-02.jpg",
+      "type": "Hành Động, Khoa Học Viễn Tưởng, Phiêu Lưu",
+      "time": 196,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "3",
+      "namemovie": "CHAINSAW MAN - THE MOVIE: CHƯƠNG REZE",
+      "link_img_moive": "https://i.ibb.co/TMKmqRPJ/movie-dc-03.jpg",
+      "type": "Hành Động, Hoạt Hình, Thần thoại",
+      "time": 100,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "4",
+      "namemovie": "ENHYPEN VR CONCERT : IMMERSION",
+      "link_img_moive": "https://i.ibb.co/Q73T9tT6/movie-dc-04.jpg",
+      "type": "Hòa nhạc",
+      "time": 36,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "5",
+      "namemovie": "BTS 2017 LIVE TRILOGY EPISODE III THE WINGS TOUR THE FINAL REMASTERED",
+      "link_img_moive": "https://i.ibb.co/FjR3QQz/movie-dc-05.jpg",
+      "type": "Hòa nhạc",
+      "time": 37,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "6",
+      "namemovie": "TRẬN CHIẾN SAU TRẬN CHIẾN",
+      "link_img_moive": "https://i.ibb.co/tTyWbjq2/movie-dc-06.jpg",
+      "type": "Hành Động, Hồi hộp, Tâm Lý",
+      "time": 96,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "7",
+      "namemovie": "NHÀ BÚP BÊ CỦA GABBY: PHIM ĐIỆN ẢNH",
+      "link_img_moive": "https://i.ibb.co/k2G4BvJJ/movie-dc-07.jpg",
+      "type": "Hoạt Hình, Phiêu Lưu",
+      "time": 87,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "8",
+      "namemovie": "EXIT 8: GA TÀU VÔ TẬN",
+      "link_img_moive": "https://i.ibb.co/Cpg5C9yM/movie-dc-08.jpg",
+      "type": "Kinh Dị",
+      "time": 90,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "9",
+      "namemovie": "ĐỒI HÀNH XÁC",
+      "link_img_moive": "https://i.ibb.co/xqPYYhBx/movie-dc-09.jpg",
+      "type": "Hồi hộp, Kinh Dị",
+      "time": 107,
+      "status": "AreShowing",
+      "trailer": null,
+      "description": null,
+      "movie-date": "2-10-2025"
+    },
+    {
+      "id": "10",
+      "namemovie": "TAY ANH GIỮ MỘT VÌ SAO",
+      "link_img_moive": "https://i.ibb.co/HpfLZJ0G/movie-sc-1.jpg",
+      "type": "Hài, Tình cảm",
+      "time": 117,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "7-10-2025"
+    },
+    {
+      "id": "11",
+      "namemovie": "NHÂN DIỆN",
+      "link_img_moive": "https://i.ibb.co/Y7HDvJ1q/movie-sc-2.jpg",
+      "type": "Hồi hộp",
+      "time": 102,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "3-10-2025"
+    },
+    {
+      "id": "12",
+      "namemovie": "CHỊ NGÃ EM NÂNG",
+      "link_img_moive": "https://i.ibb.co/XkSS4cpZ/movie-sc-3.jpg",
+      "type": "Gia đình, Hài, Tâm Lý",
+      "time": 122,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "3-10-2025"
+    },
+    {
+      "id": "13",
+      "namemovie": "TRÒ CHƠI ẢO GIÁC : ARES",
+      "link_img_moive": "https://i.ibb.co/BHpKSGjb/movie-sc-4.jpg",
+      "type": "Hành Động, Khoa Học Viễn Tưởng, Phiêu Lưu",
+      "time": 118,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "10-10-2025"
+    },
+    {
+      "id": "14",
+      "namemovie": "TEE YOD: QUỶ ĂN TẠNG PHẦN 3",
+      "link_img_moive": "https://i.ibb.co/JWLG7XRX/movie-sc-5.jpg",
+      "type": "Kinh Dị",
+      "time": 136,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "10-10-2025"
+    },
+    {
+      "id": "15",
+      "namemovie": "CHÚ THUẬT HỒI CHIẾN: HOÀI NGỌC / NGỌC CHIẾT – THE MOVIE",
+      "link_img_moive": "https://i.ibb.co/qYbXDSGn/movie-sc-6.jpg",
+      "type": "Hoạt Hình",
+      "time": 110,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "10-10-2025"
+    },
+    {
+      "id": "16",
+      "namemovie": "NHỮNG LÁ THƯ CỦA YEON",
+      "link_img_moive": "https://i.ibb.co/v5mGKZC/movie-sc-7.jpg",
+      "type": "Hoạt Hình",
+      "time": 110,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "10-10-2025"
+    },
+    {
+      "id": "17",
+      "namemovie": "NĂM CỦA ANH, NGÀY CỦA EM",
+      "link_img_moive": "https://i.ibb.co/bR5WDFM0/movie-sc-8.jpg",
+      "type": "Thần thoại, Tình cảm",
+      "time": 112,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "17-10-2025"
+    },
+    {
+      "id": "18",
+      "namemovie": "VẬN MAY",
+      "link_img_moive": "https://i.ibb.co/j92TG4SX/movie-sc-9.jpg",
+      "type": "Hài, Hành Động",
+      "time": 112,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "17-10-2025"
+    },
+    {
+      "id": "19",
+      "namemovie": "CẢI MẢ",
+      "link_img_moive": "https://i.ibb.co/yG8J23s/movie-sc-10.jpg",
+      "type": "Kinh Dị",
+      "time": 112,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "24-10-2025"
+    },
+    {
+      "id": "20",
+      "namemovie": "ĐIỆN THOẠI ĐEN 2",
+      "link_img_moive": "https://i.ibb.co/xq9CPSFX/movie-sc-11.jpg",
+      "type": "Hồi hộp, Kinh Dị",
+      "time": 112,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "31-10-2025"
+    },
+    {
+      "id": "21",
+      "namemovie": "TRÁI TIM QUÈ QUẶT",
+      "link_img_moive": "https://i.ibb.co/TMtz5FcH/movie-sc-12.jpg",
+      "type": "Kịch tính, Tâm Lý",
+      "time": 112,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "07-11-2025"
+    },
+    {
+      "id": "22",
+      "namemovie": "NĂM ĐÊM KINH HOÀNG 2",
+      "link_img_moive": "https://i.ibb.co/BH55CxK0/movie-sc-13.jpg",
+      "type": "Bí ẩn, Hồi hộp, Kinh Dị",
+      "time": 112,
+      "status": "CommingSoon",
+      "trailer": null,
+      "description": null,
+      "movie-date": "05-12-2025"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "cuongphung2411",
+      "password": "123456",
+      "name": "Phùng Cường",
+      "dateofbirth": "24/11/2003",
+      "email": "cuongphung241103@gmail.com",
+      "phone": "0347577996",
+      "gender": "Nam"
+    },
+    {
+      "id": "ecb0",
+      "username": "cuongphung2003",
+      "password": "123456",
+      "name": "Cường Phùng",
+      "dateofbirth": "24/11/2003",
+      "email": "noname241103@gmail.com",
+      "phone": "0862305776",
+      "gender": "Nam"
+    },
+    {
+      "id": "d533",
+      "username": "phuongthuy2003",
+      "password": "123456",
+      "name": "Mai Thúy",
+      "dateofbirth": "12/07/2003",
+      "email": "matuy2003@gmail.com",
+      "phone": "0447577996",
+      "gender": "Nữ"
+    }
+  ],
+  "event": [
+    {
+      "id": 1,
+      "link-img-event": "https://i.ibb.co/XxfhsNzc/event-1.png"
+    },
+    {
+      "id": 2,
+      "link-img-event": "https://i.ibb.co/z9ymxXy/event-2.jpg"
+    },
+    {
+      "id": 3,
+      "link-img-event": "https://i.ibb.co/PL64qFF/event-3.jpg"
+    },
+    {
+      "id": 4,
+      "link-img-event": "https://i.ibb.co/WvynHnKq/event-4.png"
+    },
+    {
+      "id": 5,
+      "link-img-event": "https://i.ibb.co/8VwZy0z/event-5.jpg"
+    },
+    {
+      "id": 6,
+      "link-img-event": "https://i.ibb.co/MDbN5jWR/event-6.jpg"
+    },
+    {
+      "id": 7,
+      "link-img-event": "https://i.ibb.co/PzwY5WKZ/event-7.jpg"
+    },
+    {
+      "id": 8,
+      "link-img-event": "https://i.ibb.co/cKfdF2Rx/event-9.jpg"
+    },
+    {
+      "id": 9,
+      "link-img-event": "https://i.ibb.co/p6mZBkVy/event-8.png"
+    },
+    {
+      "id": 10,
+      "link-img-event": "https://i.ibb.co/W4XcQxxF/event-10.png"
+    },
+    {
+      "id": 11,
+      "link-img-event": "https://i.ibb.co/PGhpVXdf/event-11.png"
+    },
+    {
+      "id": 12,
+      "link-img-event": "https://i.ibb.co/3YGHQzy8/event-12.png"
+    },
+    {
+      "id": 13,
+      "link-img-event": "https://i.ibb.co/ZpGP7ngg/event-13.png"
+    },
+    {
+      "id": 14,
+      "link-img-event": "https://i.ibb.co/WWkPHyL4/event-14.png"
+    },
+    {
+      "id": 15,
+      "link-img-event": "https://i.ibb.co/cKP6PPRB/event-15.png"
+    },
+    {
+      "id": 16,
+      "link-img-event": "https://i.ibb.co/qL1SDrnq/event-17.png"
+    },
+    {
+      "id": 17,
+      "link-img-event": "https://i.ibb.co/s9ghzCCT/event-16.png"
+    },
+    {
+      "id": 18,
+      "link-img-event": "https://i.ibb.co/0y78JWLf/event-18.jpg"
+    },
+    {
+      "id": 19,
+      "link-img-event": "https://i.ibb.co/TD6n5Dfq/event-19.png"
+    },
+    {
+      "id": 20,
+      "link-img-event": "https://i.ibb.co/QjPdNcP6/event-20.png"
+    },
+    {
+      "id": 21,
+      "link-img-event": "https://i.ibb.co/fsNc117/event-21.png"
+    },
+    {
+      "id": 22,
+      "link-img-event": "https://i.ibb.co/JXqbhPJ/event-22.png"
+    },
+    {
+      "id": 23,
+      "link-img-event": "https://i.ibb.co/1fsJY23Q/event-23.jpg"
+    },
+    {
+      "id": 24,
+      "link-img-event": "https://i.ibb.co/27T2Crs1/event-24.jpg"
+    },
+    {
+      "id": 25,
+      "link-img-event": "https://i.ibb.co/hF5pDRCN/event-25.png"
+    },
+    {
+      "id": 26,
+      "link-img-event": "https://i.ibb.co/Nd6wBx4S/event-26.png"
+    },
+    {
+      "id": 27,
+      "link-img-event": "https://i.ibb.co/Y4vFyL2Z/event-28.png"
+    },
+    {
+      "id": 28,
+      "link-img-event": "https://i.ibb.co/C3rxkGGL/event-27.png"
+    },
+    {
+      "id": 29,
+      "link-img-event": "https://i.ibb.co/cXkM2YxQ/event-29.jpg"
+    },
+    {
+      "id": 30,
+      "link-img-event": "https://i.ibb.co/3Y0cb36H/event-30.jpg"
+    },
+    {
+      "id": 31,
+      "link-img-event": "https://i.ibb.co/kV6Xdthk/event-31.png"
+    },
+    {
+      "id": 32,
+      "link-img-event": "https://i.ibb.co/67gt3dmq/event-32.png"
+    },
+    {
+      "id": 33,
+      "link-img-event": "https://i.ibb.co/cSwx8q39/event-33.png"
+    },
+    {
+      "id": 34,
+      "link-img-event": "https://i.ibb.co/DgCx2rJJ/event-34.png"
+    },
+    {
+      "id": 35,
+      "link-img-event": "https://i.ibb.co/MHbPsRk/event-35.png"
+    },
+    {
+      "id": 36,
+      "link-img-event": "https://i.ibb.co/mCwhwMF9/event-37.png"
+    },
+    {
+      "id": 37,
+      "link-img-event": "https://i.ibb.co/YF08hR6B/event-36.jpg"
+    },
+    {
+      "id": 38,
+      "link-img-event": "https://i.ibb.co/BKzByBq0/event-38.jpg"
+    },
+    {
+      "id": 39,
+      "link-img-event": "https://i.ibb.co/tp3z7Dxq/event-39.png"
+    },
+    {
+      "id": 40,
+      "link-img-event": "https://i.ibb.co/ZRFdCxQF/event-40.png"
+    },
+    {
+      "id": 41,
+      "link-img-event": "https://i.ibb.co/jk57KBLd/event-41.png"
+    },
+    {
+      "id": 42,
+      "link-img-event": "https://i.ibb.co/GQTjhWmD/event-42.png"
+    },
+    {
+      "id": 43,
+      "link-img-event": "https://i.ibb.co/K8Cnrqp/event-43.jpg"
+    },
+    {
+      "id": 44,
+      "link-img-event": "https://i.ibb.co/1f2B2F2t/event-44.jpg"
+    },
+    {
+      "id": 45,
+      "link-img-event": "https://i.ibb.co/P83f19r/event-45.jpg"
+    },
+    {
+      "id": 46,
+      "link-img-event": "https://i.ibb.co/qYv5m9ZL/event-46.png"
+    },
+    {
+      "id": 47,
+      "link-img-event": "https://i.ibb.co/x8ttp0VR/event-47.jpg"
+    },
+    {
+      "id": 48,
+      "link-img-event": "https://i.ibb.co/27wSbgHH/event-48.jpg"
+    }
+  ],
+
+  "thanh-vien-cgv": [
+    {
+      "id": 1,
+      "link-img-thanh-vien-cgv": "https://i.ibb.co/Dfw0MK9c/thanh-vien-1.png"
+    },
+    {
+      "id": 2,
+      "link-img-thanh-vien-cgv": "https://i.ibb.co/1fvfdkCB/thanh-vien-2.jpg"
+    },
+    {
+      "id": 3,
+      "link-img-thanh-vien-cgv": "https://i.ibb.co/FkVPXQHK/thanh-vien-3.png"
+    },
+    {
+      "id": 4,
+      "link-img-thanh-vien-cgv": "https://i.ibb.co/cS8GPWNn/thanh-vien-4.jpg"
+    }
+  ],
+
+  "tin-tuc-va-uu-dai": [
+    {
+      "id": 1,
+      "link-img-tin-tuc-va-uu-dai": "https://i.ibb.co/6cFd6pbQ/tintucvauudai-1.png"
+    },
+    {
+      "id": 2,
+      "link-img-tin-tuc-va-uu-dai": "https://i.ibb.co/0p54wNsY/tintucvauudai-2.png"
+    },
+    {
+      "id": 3,
+      "link-img-tin-tuc-va-uu-dai": "https://i.ibb.co/My15JPCZ/tintucvauudai-3.png"
+    },
+    {
+      "id": 4,
+      "link-img-tin-tuc-va-uu-dai": "https://i.ibb.co/hbx5QKg/tintucvauudai-4.png"
+    },
+    {
+      "id": 5,
+      "link-img-tin-tuc-va-uu-dai": "https://i.ibb.co/pBSRQXHf/tintucvauudai-5.png"
+    }
+  ]
+}
